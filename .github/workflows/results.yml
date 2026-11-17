@@ -1,0 +1,63 @@
+name: 日中の結果を自動更新
+
+# JST 8:00〜23:30 の間、30分ごとに今日の結果を取り込んでコミットする
+# 加えて深夜0:30 (JST) に最終取り込みを1回行う (ナイター開催対策)
+# 結果取得は予想を再生成しないため、表示専用の公開リポジトリ単体で動作する。
+#
+# 競艇版の事故対策 (2026-11-14) を踏襲:
+#   - concurrency で同時実行を禁止
+#   - push が競合したら最新を取り込んで再取得してから再試行する
+on:
+  schedule:
+    - cron: "*/30 23,0-14 * * *"
+    - cron: "30 15 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: autorace-results
+  cancel-in-progress: false
+
+jobs:
+  results:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm install --no-audit --no-fund
+      - name: 今日の結果を取得
+        timeout-minutes: 12
+        run: |
+          TODAY=$(TZ=Asia/Tokyo date +%F)
+          if [ -f "data/${TODAY}.json" ]; then
+            node scripts/fetch-results.mjs "${TODAY}"
+          else
+            echo "今日のデータがまだ無いのでスキップ"
+          fi
+      - name: 結果をコミット
+        run: |
+          TODAY=$(TZ=Asia/Tokyo date +%F)
+          git config user.name "gaudi-bot"
+          git config user.email "bot@example.com"
+          pushed=0
+          for attempt in 1 2 3; do
+            git add data/
+            if git diff --cached --quiet; then pushed=1; break; fi
+            git commit -m "data: 結果を自動更新"
+            if git push; then pushed=1; break; fi
+            echo "push が競合しました。最新を取り込んで再取得してから再試行します (attempt ${attempt})"
+            git fetch origin
+            git reset --hard origin/main
+            if [ -f "data/${TODAY}.json" ]; then
+              node scripts/fetch-results.mjs "${TODAY}" || true
+            fi
+          done
+          if [ "${pushed}" != "1" ]; then
+            echo "結果の push に失敗しました"
+            exit 1
+          fi

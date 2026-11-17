@@ -1,0 +1,1 @@
+{"description":"オートレース出走表＋GAUDICODEオートレースAI予想サイト（レビュー用）","name":"autorace-gaudi-site","private":true,"scripts":{"build-data":"node scripts/fetch-and-build.mjs","build-data:today":"node scripts/fetch-and-build.mjs"},"version":"1.0.0"}
