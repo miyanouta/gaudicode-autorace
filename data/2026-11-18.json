@@ -1233,6 +1233,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎4号車 藤本 剛（スコア5.85）。通算3連率40.9%・試走タイム—・ハンデ10m。\n対抗は○8号車 丹村 司、▲は7号車 中野 政則。\n穴候補は5号車 白次 義孝（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       4,
+       7,
+       3
+      ],
+      "sanrenpuku": {
+       "combo": "3-4-7",
+       "payout": 280
+      },
+      "sanrentan": {
+       "combo": "4-7-3",
+       "payout": 3810
+      },
+      "winCombos": {
+       "fuku": [
+        "3-4-7"
+       ],
+       "tan": [
+        "4-7-3"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -1515,6 +1547,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎8号車 田中 哲（スコア8.92）。通算3連率42.3%・試走タイム—・ハンデ30m。\n対抗は○6号車 田方 秀和、▲は5号車 竹内 正浩。\n穴候補は2号車 井上 智詞（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       5,
+       4,
+       7
+      ],
+      "sanrenpuku": {
+       "combo": "4-5-7",
+       "payout": 7470
+      },
+      "sanrentan": {
+       "combo": "5-4-7",
+       "payout": 24900
+      },
+      "winCombos": {
+       "fuku": [
+        "4-5-7"
+       ],
+       "tan": [
+        "5-4-7"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5568,5 +5632,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-18T02:59:28.258Z"
+ "resultsUpdatedAt": "2026-11-18T04:01:47.800Z"
 }
