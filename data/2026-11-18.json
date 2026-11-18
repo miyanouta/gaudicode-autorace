@@ -1861,6 +1861,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 穴見 和正（スコア6.85）。通算3連率48.8%・試走タイム—・ハンデ30m。\n対抗は○6号車 木村 義明、▲は7号車 松尾 隆広。\n穴候補は5号車 水本 竜二（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       8,
+       7,
+       6
+      ],
+      "sanrenpuku": {
+       "combo": "6-7-8",
+       "payout": 1040
+      },
+      "sanrentan": {
+       "combo": "8-7-6",
+       "payout": 4350
+      },
+      "winCombos": {
+       "fuku": [
+        "6-7-8"
+       ],
+       "tan": [
+        "8-7-6"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": true,
+       "tanShoubu": true,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -2143,6 +2175,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 久門 徹（スコア5.55）。通算3連率50.8%・試走タイム—・ハンデ40m。\n対抗は○4号車 水崎 正二、▲は2号車 花元 初美。\n穴候補は5号車 松生 信二（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       4,
+       7,
+       6
+      ],
+      "sanrenpuku": {
+       "combo": "4-6-7",
+       "payout": 2880
+      },
+      "sanrentan": {
+       "combo": "4-7-6",
+       "payout": 9800
+      },
+      "winCombos": {
+       "fuku": [
+        "4-6-7"
+       ],
+       "tan": [
+        "4-7-6"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -2425,6 +2489,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 鐘ヶ江 将平（スコア7.95）。通算3連率47.1%・試走タイム—・ハンデ40m。\n対抗は○7号車 福永 貴史、▲は6号車 根本 将人。\n穴候補は4号車 日室 志郎（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       8,
+       7,
+       5
+      ],
+      "sanrenpuku": {
+       "combo": "5-7-8",
+       "payout": 430
+      },
+      "sanrentan": {
+       "combo": "8-7-5",
+       "payout": 710
+      },
+      "winCombos": {
+       "fuku": [
+        "5-7-8"
+       ],
+       "tan": [
+        "8-7-5"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -2707,6 +2803,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎3号車 桜木 公和（スコア5.37）。通算3連率43.5%・試走タイム—・ハンデ10m。\n対抗は○7号車 岡松 忠、▲は6号車 竹谷 隆。\n穴候補は2号車 本門 延唯（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       6,
+       3,
+       8
+      ],
+      "sanrenpuku": {
+       "combo": "3-6-8",
+       "payout": 340
+      },
+      "sanrentan": {
+       "combo": "6-3-8",
+       "payout": 650
+      },
+      "winCombos": {
+       "fuku": [
+        "3-6-8"
+       ],
+       "tan": [
+        "6-3-8"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -2989,6 +3117,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎7号車 浦田 信輔（スコア5.73）。通算3連率62.9%・試走タイム—・ハンデ20m。\n対抗は○5号車 佐藤 裕児、▲は8号車 滝下 隼平。\n穴候補は1号車 池田 康範（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       6,
+       1,
+       8
+      ],
+      "sanrenpuku": {
+       "combo": "1-6-8",
+       "payout": 9920
+      },
+      "sanrentan": {
+       "combo": "6-1-8",
+       "payout": 71360
+      },
+      "winCombos": {
+       "fuku": [
+        "1-6-8"
+       ],
+       "tan": [
+        "6-1-8"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -3271,6 +3431,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎7号車 岩見 貴史（スコア4.66）。通算3連率52.0%・試走タイム—・ハンデ30m。\n対抗は○8号車 若井 友和、▲は6号車 岡部 聡。\n穴候補は2号車 池浦 一博（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       6,
+       3
+      ],
+      "sanrenpuku": {
+       "combo": "3-6-7",
+       "payout": 4820
+      },
+      "sanrentan": {
+       "combo": "7-6-3",
+       "payout": 27090
+      },
+      "winCombos": {
+       "fuku": [
+        "3-6-7"
+       ],
+       "tan": [
+        "7-6-3"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -3553,6 +3745,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 永井 大介（スコア10.00）。通算3連率66.1%・試走タイム—・ハンデ10m。\n対抗は○7号車 平田 雅崇、▲は6号車 中尾 貴志。\n穴候補は3号車 鈴木 将光（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       1,
+       5,
+       6
+      ],
+      "sanrenpuku": {
+       "combo": "1-5-6",
+       "payout": 9350
+      },
+      "sanrentan": {
+       "combo": "1-5-6",
+       "payout": 102840
+      },
+      "winCombos": {
+       "fuku": [
+        "1-5-6"
+       ],
+       "tan": [
+        "1-5-6"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     }
    ]
@@ -5632,5 +5856,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-18T04:01:47.800Z"
+ "resultsUpdatedAt": "2026-11-18T08:14:05.181Z"
 }
