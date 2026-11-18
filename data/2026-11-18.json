@@ -4335,6 +4335,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎5号車 鈴木 清市（スコア4.34）。通算3連率47.7%・試走タイム—・ハンデ20m。\n対抗は○7号車 牧野 貴博、▲は4号車 矢内 昌木。\n穴候補は6号車 谷川 一貴（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       3,
+       4,
+       6
+      ],
+      "sanrenpuku": {
+       "combo": "3-4-6",
+       "payout": 2830
+      },
+      "sanrentan": {
+       "combo": "3-4-6",
+       "payout": 42670
+      },
+      "winCombos": {
+       "fuku": [
+        "3-4-6"
+       ],
+       "tan": [
+        "3-4-6"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -4593,6 +4625,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎7号車 浅香 潤（スコア4.56）。通算3連率46.2%・試走タイム—・ハンデ30m。\n対抗は○6号車 仲田 恵一朗、▲は5号車 廿樂 歩。\n穴候補は3号車 原田 富夫（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       1,
+       2
+      ],
+      "sanrenpuku": {
+       "combo": "1-2-7",
+       "payout": 1140
+      },
+      "sanrentan": {
+       "combo": "7-1-2",
+       "payout": 1980
+      },
+      "winCombos": {
+       "fuku": [
+        "1-2-7"
+       ],
+       "tan": [
+        "7-1-2"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5888,5 +5952,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-18T09:14:05.888Z"
+ "resultsUpdatedAt": "2026-11-18T10:13:53.798Z"
 }
