@@ -5883,6 +5883,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎6号車 浅倉 樹良（スコア6.48）。通算3連率61.6%・試走タイム—・ハンデ40m。\n対抗は○3号車 植村 愛悠斗、▲は4号車 藤川 竜。\n穴候補は2号車 安東 久隆（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       6,
+       5,
+       3
+      ],
+      "sanrenpuku": {
+       "combo": "3-5-6",
+       "payout": 140
+      },
+      "sanrentan": {
+       "combo": "6-5-3",
+       "payout": 820
+      },
+      "winCombos": {
+       "fuku": [
+        "3-5-6"
+       ],
+       "tan": [
+        "6-5-3"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -6117,10 +6149,42 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎6号車 丹村 飛竜（スコア5.93）。通算3連率52.0%・試走タイム—・ハンデ40m。\n対抗は○5号車 川口 裕司、▲は3号車 佐藤 智也。\n穴候補は2号車 三宅 真央（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       6,
+       5,
+       2
+      ],
+      "sanrenpuku": {
+       "combo": "2-5-6",
+       "payout": 850
+      },
+      "sanrentan": {
+       "combo": "6-5-2",
+       "payout": 1790
+      },
+      "winCombos": {
+       "fuku": [
+        "2-5-6"
+       ],
+       "tan": [
+        "6-5-2"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": true,
+       "tanBalance": true,
+       "tanShoubu": true,
+       "sanrentan": true
+      }
      }
     }
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-19T14:14:03.785Z"
+ "resultsUpdatedAt": "2026-11-19T21:58:01.749Z"
 }
