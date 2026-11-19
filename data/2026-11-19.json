@@ -1233,6 +1233,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 鈴木 宏和（スコア6.16）。通算3連率54.8%・試走タイム—・ハンデ20m。\n対抗は○7号車 新井 恵匠、▲は3号車 米里 崇徳。\n穴候補は4号車 松井 大和（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       3,
+       8,
+       7
+      ],
+      "sanrenpuku": {
+       "combo": "3-7-8",
+       "payout": 1770
+      },
+      "sanrentan": {
+       "combo": "3-8-7",
+       "payout": 14370
+      },
+      "winCombos": {
+       "fuku": [
+        "3-7-8"
+       ],
+       "tan": [
+        "3-8-7"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": true,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5610,5 +5642,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-19T02:41:37.989Z"
+ "resultsUpdatedAt": "2026-11-19T03:13:54.942Z"
 }
