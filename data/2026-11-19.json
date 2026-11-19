@@ -5351,6 +5351,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎6号車 新井 日和（スコア4.15）。通算3連率49.7%・試走タイム—・ハンデ50m。\n対抗は○4号車 木山 優輝、▲は3号車 滝谷 圭。\n穴候補は2号車 国本 一（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       2,
+       6,
+       4
+      ],
+      "sanrenpuku": {
+       "combo": "2-4-6",
+       "payout": 760
+      },
+      "sanrentan": {
+       "combo": "2-6-4",
+       "payout": 10040
+      },
+      "winCombos": {
+       "fuku": [
+        "2-4-6"
+       ],
+       "tan": [
+        "2-6-4"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": true,
+       "tanBalance": true,
+       "tanShoubu": true,
+       "sanrentan": true
+      }
      }
     },
     {
@@ -5585,6 +5617,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎6号車 福岡 鷹（スコア6.00）。通算3連率64.4%・試走タイム—・ハンデ50m。\n対抗は○4号車 林 弘明、▲は5号車 山本 翔。\n穴候補は1号車 松尾 亜生理（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       5,
+       4,
+       6
+      ],
+      "sanrenpuku": {
+       "combo": "4-5-6",
+       "payout": 160
+      },
+      "sanrentan": {
+       "combo": "5-4-6",
+       "payout": 2310
+      },
+      "winCombos": {
+       "fuku": [
+        "4-5-6"
+       ],
+       "tan": [
+        "5-4-6"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -6058,5 +6122,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-19T13:13:55.926Z"
+ "resultsUpdatedAt": "2026-11-19T14:14:03.785Z"
 }
