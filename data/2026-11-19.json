@@ -4021,6 +4021,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎5号車 山本 翔（スコア3.88）。通算3連率47.8%・試走タイム—・ハンデ50m。\n対抗は○3号車 道智 亮介、▲は6号車 角南 一如。\n穴候補は1号車 小川 可蓮（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       5,
+       3,
+       6
+      ],
+      "sanrenpuku": {
+       "combo": "3-5-6",
+       "payout": 240
+      },
+      "sanrentan": {
+       "combo": "5-3-6",
+       "payout": 1030
+      },
+      "winCombos": {
+       "fuku": [
+        "3-5-6"
+       ],
+       "tan": [
+        "5-3-6"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": true,
+       "tanShoubu": true,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5898,5 +5930,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-19T07:13:57.146Z"
+ "resultsUpdatedAt": "2026-11-19T11:13:54.098Z"
 }
