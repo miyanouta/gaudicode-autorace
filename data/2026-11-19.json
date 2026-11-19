@@ -5085,6 +5085,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎3号車 佐藤 智也（スコア1.80）。通算3連率38.8%・試走タイム—・ハンデ30m。\n対抗は○6号車 角南 一如、▲は5号車 吉松 優輝。\n穴候補は2号車 古谷 匠（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       3,
+       6,
+       2
+      ],
+      "sanrenpuku": {
+       "combo": "2-3-6",
+       "payout": 280
+      },
+      "sanrentan": {
+       "combo": "3-6-2",
+       "payout": 1140
+      },
+      "winCombos": {
+       "fuku": [
+        "2-3-6"
+       ],
+       "tan": [
+        "3-6-2"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": true,
+       "tanBalance": true,
+       "tanShoubu": true,
+       "sanrentan": true
+      }
      }
     },
     {
@@ -6026,5 +6058,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-19T12:47:38.587Z"
+ "resultsUpdatedAt": "2026-11-19T13:13:55.926Z"
 }
