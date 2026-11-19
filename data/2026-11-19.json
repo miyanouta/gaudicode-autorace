@@ -1547,6 +1547,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎8号車 高橋 貢（スコア10.89）。通算3連率71.3%・試走タイム—・ハンデ20m。\n対抗は○7号車 木村 武之、▲は6号車 浅田 真吾。\n穴候補は3号車 柴田 紘志（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       8,
+       4,
+       3
+      ],
+      "sanrenpuku": {
+       "combo": "3-4-8",
+       "payout": 1010
+      },
+      "sanrentan": {
+       "combo": "8-4-3",
+       "payout": 2060
+      },
+      "winCombos": {
+       "fuku": [
+        "3-4-8"
+       ],
+       "tan": [
+        "8-4-3"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -1829,6 +1861,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 佐藤 摩弥（スコア8.11）。通算3連率54.0%・試走タイム—・ハンデ30m。\n対抗は○7号車 伊藤 正真、▲は3号車 占部 健太。\n穴候補は6号車 中村 友和（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       8,
+       3,
+       6
+      ],
+      "sanrenpuku": {
+       "combo": "3-6-8",
+       "payout": 180
+      },
+      "sanrentan": {
+       "combo": "8-3-6",
+       "payout": 570
+      },
+      "winCombos": {
+       "fuku": [
+        "3-6-8"
+       ],
+       "tan": [
+        "8-3-6"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5642,5 +5706,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-19T03:13:54.942Z"
+ "resultsUpdatedAt": "2026-11-19T03:58:34.737Z"
 }
