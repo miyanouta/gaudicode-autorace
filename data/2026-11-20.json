@@ -1547,6 +1547,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎8号車 伊藤 信夫（スコア10.39）。通算3連率59.7%・試走タイム—・ハンデ20m。\n対抗は○7号車 岩崎 亮一、▲は6号車 別府 敬剛。\n穴候補は1号車 石井 大志（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       5,
+       7,
+       6
+      ],
+      "sanrenpuku": {
+       "combo": "5-6-7",
+       "payout": 1490
+      },
+      "sanrentan": {
+       "combo": "5-7-6",
+       "payout": 9760
+      },
+      "winCombos": {
+       "fuku": [
+        "5-6-7"
+       ],
+       "tan": [
+        "5-7-6"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5642,5 +5674,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-20T03:13:56.950Z"
+ "resultsUpdatedAt": "2026-11-20T03:52:01.357Z"
 }
