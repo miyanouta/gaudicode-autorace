@@ -3431,6 +3431,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎8号車 金子 大輔（スコア9.80）。通算3連率67.4%・試走タイム—・ハンデ20m。\n対抗は○7号車 木村 武之、▲は4号車 鈴木 静二。\n穴候補は2号車 佳元 光義（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       8,
+       2,
+       6
+      ],
+      "sanrenpuku": {
+       "combo": "2-6-8",
+       "payout": 1560
+      },
+      "sanrentan": {
+       "combo": "8-2-6",
+       "payout": 5360
+      },
+      "winCombos": {
+       "fuku": [
+        "2-6-8"
+       ],
+       "tan": [
+        "8-2-6"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -3713,6 +3745,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 鈴木 圭一郎（スコア10.35）。通算3連率85.4%・試走タイム—・ハンデ30m。\n対抗は○7号車 小林 瑞季、▲は3号車 占部 健太。\n穴候補は5号車 大月 渉（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       8,
+       4,
+       3
+      ],
+      "sanrenpuku": {
+       "combo": "3-4-8",
+       "payout": 1530
+      },
+      "sanrentan": {
+       "combo": "8-4-3",
+       "payout": 3000
+      },
+      "winCombos": {
+       "fuku": [
+        "3-4-8"
+       ],
+       "tan": [
+        "8-4-3"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     }
    ]
@@ -5834,5 +5898,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-20T06:13:54.000Z"
+ "resultsUpdatedAt": "2026-11-20T07:14:01.958Z"
 }
