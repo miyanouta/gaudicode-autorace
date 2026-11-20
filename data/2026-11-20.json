@@ -1861,6 +1861,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎8号車 鈴木 宏和（スコア8.41）。通算3連率54.9%・試走タイム—・ハンデ20m。\n対抗は○6号車 村田 光希、▲は7号車 伊藤 正真。\n穴候補は2号車 片野 利沙（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       2,
+       8
+      ],
+      "sanrenpuku": {
+       "combo": "2-7-8",
+       "payout": 260
+      },
+      "sanrentan": {
+       "combo": "7-2-8",
+       "payout": 1790
+      },
+      "winCombos": {
+       "fuku": [
+        "2-7-8"
+       ],
+       "tan": [
+        "7-2-8"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5674,5 +5706,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-20T03:52:01.357Z"
+ "resultsUpdatedAt": "2026-11-20T04:13:46.987Z"
 }
