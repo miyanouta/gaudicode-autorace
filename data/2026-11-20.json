@@ -919,6 +919,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 荒尾 聡（スコア11.19）。通算3連率66.5%・試走タイム—・ハンデ30m。\n対抗は○7号車 高橋 義弘、▲は3号車 青山 文敏。\n穴候補は5号車 長谷 晴久（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       8,
+       3
+      ],
+      "sanrenpuku": {
+       "combo": "3-7-8",
+       "payout": 370
+      },
+      "sanrentan": {
+       "combo": "7-8-3",
+       "payout": 1600
+      },
+      "winCombos": {
+       "fuku": [
+        "3-7-8"
+       ],
+       "tan": [
+        "7-8-3"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": true,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -1201,6 +1233,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 佐藤 摩弥（スコア9.56）。通算3連率54.0%・試走タイム—・ハンデ20m。\n対抗は○7号車 渡辺 篤、▲は3号車 小栗 勝太。\n穴候補は4号車 松井 大和（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       8,
+       7,
+       6
+      ],
+      "sanrenpuku": {
+       "combo": "6-7-8",
+       "payout": 320
+      },
+      "sanrentan": {
+       "combo": "8-7-6",
+       "payout": 680
+      },
+      "winCombos": {
+       "fuku": [
+        "6-7-8"
+       ],
+       "tan": [
+        "8-7-6"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5578,5 +5642,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-20T02:13:58.095Z"
+ "resultsUpdatedAt": "2026-11-20T03:13:56.950Z"
 }
