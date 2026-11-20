@@ -2803,6 +2803,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎8号車 佐藤 貴也（スコア10.11）。通算3連率60.0%・試走タイム—・ハンデ20m。\n対抗は○7号車 加賀谷 建明、▲は6号車 遠藤 誠。\n穴候補は3号車 柴田 紘志（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       6,
+       8,
+       7
+      ],
+      "sanrenpuku": {
+       "combo": "6-7-8",
+       "payout": 1270
+      },
+      "sanrentan": {
+       "combo": "6-8-7",
+       "payout": 27830
+      },
+      "winCombos": {
+       "fuku": [
+        "6-7-8"
+       ],
+       "tan": [
+        "6-8-7"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": true,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -3085,6 +3117,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎8号車 黒川 京介（スコア12.47）。通算3連率65.0%・試走タイム—・ハンデ20m。\n対抗は○3号車 米里 崇徳、▲は6号車 佐藤 大地。\n穴候補は1号車 藤本 梨恵（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       8,
+       3,
+       2
+      ],
+      "sanrenpuku": {
+       "combo": "2-3-8",
+       "payout": 480
+      },
+      "sanrentan": {
+       "combo": "8-3-2",
+       "payout": 2750
+      },
+      "winCombos": {
+       "fuku": [
+        "2-3-8"
+       ],
+       "tan": [
+        "8-3-2"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": true,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5770,5 +5834,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-20T05:13:53.766Z"
+ "resultsUpdatedAt": "2026-11-20T06:13:54.000Z"
 }
