@@ -4819,6 +4819,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎5号車 川口 裕司（スコア4.17）。通算3連率48.8%・試走タイム—・ハンデ40m。\n対抗は○6号車 古城 龍之介、▲は4号車 前田 淳。\n穴候補は2号車 三宅 真央（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       5,
+       1,
+       2
+      ],
+      "sanrenpuku": {
+       "combo": "1-2-5",
+       "payout": 380
+      },
+      "sanrentan": {
+       "combo": "5-1-2",
+       "payout": 1210
+      },
+      "winCombos": {
+       "fuku": [
+        "1-2-5"
+       ],
+       "tan": [
+        "5-1-2"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5994,5 +6026,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-20T12:13:43.768Z"
+ "resultsUpdatedAt": "2026-11-20T12:31:04.084Z"
 }
