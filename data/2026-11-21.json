@@ -5351,6 +5351,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎6号車 古城 龍之介（スコア3.86）。通算3連率46.1%・試走タイム—・ハンデ50m。\n対抗は○5号車 石田 啓貴、▲は4号車 古谷 匠。\n穴候補は3号車 野上 史豪（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       4,
+       6,
+       3
+      ],
+      "sanrenpuku": {
+       "combo": "3-4-6",
+       "payout": 200
+      },
+      "sanrentan": {
+       "combo": "4-6-3",
+       "payout": 770
+      },
+      "winCombos": {
+       "fuku": [
+        "3-4-6"
+       ],
+       "tan": [
+        "4-6-3"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5585,6 +5617,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎3号車 林 弘明（スコア1.40）。通算3連率42.4%・試走タイム—・ハンデ20m。\n対抗は○2号車 道智 亮介、▲は6号車 長田 恭徳。\n穴候補は1号車 三宅 真央（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       2,
+       6,
+       1
+      ],
+      "sanrenpuku": {
+       "combo": "1-2-6",
+       "payout": 250
+      },
+      "sanrentan": {
+       "combo": "2-6-1",
+       "payout": 910
+      },
+      "winCombos": {
+       "fuku": [
+        "1-2-6"
+       ],
+       "tan": [
+        "2-6-1"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": true,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -6058,5 +6122,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-21T13:14:01.245Z"
+ "resultsUpdatedAt": "2026-11-21T14:14:02.085Z"
 }
