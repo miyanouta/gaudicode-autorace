@@ -4287,6 +4287,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎5号車 植村 愛悠斗（スコア6.79）。通算3連率48.4%・試走タイム—・ハンデ30m。\n対抗は○4号車 安東 久隆、▲は6号車 松尾 彩。\n穴候補は1号車 岸田 大知（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       5,
+       6,
+       4
+      ],
+      "sanrenpuku": {
+       "combo": "4-5-6",
+       "payout": 100
+      },
+      "sanrentan": {
+       "combo": "5-6-4",
+       "payout": 170
+      },
+      "winCombos": {
+       "fuku": [
+        "4-5-6"
+       ],
+       "tan": [
+        "5-6-4"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": true,
+       "tanShoubu": true,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -4521,6 +4553,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎5号車 藤川 竜（スコア3.47）。通算3連率43.6%・試走タイム—・ハンデ50m。\n対抗は○4号車 三宅 真央、▲は6号車 前田 淳。\n穴候補は3号車 佐伯 拓実（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       6,
+       3,
+       5
+      ],
+      "sanrenpuku": {
+       "combo": "3-5-6",
+       "payout": 130
+      },
+      "sanrentan": {
+       "combo": "6-3-5",
+       "payout": 1250
+      },
+      "winCombos": {
+       "fuku": [
+        "3-5-6"
+       ],
+       "tan": [
+        "6-3-5"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5930,5 +5994,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-21T11:13:56.198Z"
+ "resultsUpdatedAt": "2026-11-21T12:07:24.626Z"
 }
