@@ -291,6 +291,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎4号車 古木 賢（スコア3.72）。通算3連率37.2%・試走タイム—・ハンデ10m。\n対抗は○5号車 秋田 貴弘、▲は2号車 竹中 修二。\n穴候補は7号車 稲川 聖也（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       1,
+       5,
+       3
+      ],
+      "sanrenpuku": {
+       "combo": "1-3-5",
+       "payout": 2280
+      },
+      "sanrentan": {
+       "combo": "1-5-3",
+       "payout": 4200
+      },
+      "winCombos": {
+       "fuku": [
+        "1-3-5"
+       ],
+       "tan": [
+        "1-5-3"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -573,6 +605,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 内山 雄介（スコア5.28）。通算3連率40.9%・試走タイム—・ハンデ20m。\n対抗は○7号車 長谷 晴久、▲は5号車 赤堀 翼。\n穴候補は4号車 斎藤 正悟（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       4,
+       8,
+       2
+      ],
+      "sanrenpuku": {
+       "combo": "2-4-8",
+       "payout": 5230
+      },
+      "sanrentan": {
+       "combo": "4-8-2",
+       "payout": 9760
+      },
+      "winCombos": {
+       "fuku": [
+        "2-4-8"
+       ],
+       "tan": [
+        "4-8-2"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5513,5 +5577,6 @@
     }
    ]
   }
- ]
+ ],
+ "resultsUpdatedAt": "2026-11-21T02:14:01.023Z"
 }
