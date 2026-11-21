@@ -1233,6 +1233,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎7号車 田中 崇太（スコア5.63）。通算3連率47.7%・試走タイム—・ハンデ20m。\n対抗は○6号車 小栗 勝太、▲は8号車 平塚 雅樹。\n穴候補は1号車 橋本 優一（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       6,
+       1,
+       4
+      ],
+      "sanrenpuku": {
+       "combo": "1-4-6",
+       "payout": 5700
+      },
+      "sanrentan": {
+       "combo": "6-1-4",
+       "payout": 18230
+      },
+      "winCombos": {
+       "fuku": [
+        "1-4-6"
+       ],
+       "tan": [
+        "6-1-4"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5610,5 +5642,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-21T02:39:02.036Z"
+ "resultsUpdatedAt": "2026-11-21T03:11:36.369Z"
 }
