@@ -919,6 +919,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎8号車 浅田 真吾（スコア6.28）。通算3連率44.0%・試走タイム—・ハンデ20m。\n対抗は○7号車 小原 望、▲は6号車 石貝 武之。\n穴候補は4号車 新井 裕貴（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       2,
+       3,
+       1
+      ],
+      "sanrenpuku": {
+       "combo": "1-2-3",
+       "payout": 3210
+      },
+      "sanrentan": {
+       "combo": "2-3-1",
+       "payout": 15970
+      },
+      "winCombos": {
+       "fuku": [
+        "1-2-3"
+       ],
+       "tan": [
+        "2-3-1"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5536,5 +5568,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-22T02:14:02.635Z"
+ "resultsUpdatedAt": "2026-11-22T02:49:33.699Z"
 }
