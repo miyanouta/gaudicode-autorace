@@ -4335,6 +4335,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎6号車 佐藤 裕二（スコア6.65）。通算3連率51.5%・試走タイム—・ハンデ40m。\n対抗は○7号車 上和田 拓海、▲は5号車 中野 憲人。\n穴候補は4号車 川原 剛（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       6,
+       5,
+       7
+      ],
+      "sanrenpuku": {
+       "combo": "5-6-7",
+       "payout": 140
+      },
+      "sanrentan": {
+       "combo": "6-5-7",
+       "payout": 320
+      },
+      "winCombos": {
+       "fuku": [
+        "5-6-7"
+       ],
+       "tan": [
+        "6-5-7"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": true,
+       "tanShoubu": true,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5888,5 +5920,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-22T10:14:00.671Z"
+ "resultsUpdatedAt": "2026-11-22T10:43:47.497Z"
 }
