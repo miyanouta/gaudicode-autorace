@@ -5785,6 +5785,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎7号車 永井 大介（スコア8.73）。通算3連率66.1%・試走タイム—・ハンデ40m。\n対抗は○6号車 小椋 華恋、▲は3号車 田辺 誠。\n穴候補は5号車 斎藤 撤二（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       3,
+       4,
+       7
+      ],
+      "sanrenpuku": {
+       "combo": "3-4-7",
+       "payout": 260
+      },
+      "sanrentan": {
+       "combo": "3-4-7",
+       "payout": 30160
+      },
+      "winCombos": {
+       "fuku": [
+        "3-4-7"
+       ],
+       "tan": [
+        "3-4-7"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -6043,10 +6075,42 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎7号車 佐藤 励（スコア10.38）。通算3連率73.4%・試走タイム—・ハンデ40m。\n対抗は○6号車 岩田 裕臣、▲は4号車 牧野 貴博。\n穴候補は5号車 山際 真介（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       6,
+       5
+      ],
+      "sanrenpuku": {
+       "combo": "5-6-7",
+       "payout": 1020
+      },
+      "sanrentan": {
+       "combo": "7-6-5",
+       "payout": 1290
+      },
+      "winCombos": {
+       "fuku": [
+        "5-6-7"
+       ],
+       "tan": [
+        "7-6-5"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": true,
+       "tanBalance": true,
+       "tanShoubu": true,
+       "sanrentan": true
+      }
      }
     }
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-22T12:13:50.479Z"
+ "resultsUpdatedAt": "2026-11-22T13:13:53.534Z"
 }
