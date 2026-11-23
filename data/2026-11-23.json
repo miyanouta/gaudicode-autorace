@@ -2175,6 +2175,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 加賀谷 建明（スコア6.73）。通算3連率48.2%・試走タイム—・ハンデ30m。\n対抗は○4号車 片野 利沙、▲は7号車 小原 望。\n穴候補は2号車 桝崎 星名（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       4,
+       8,
+       6
+      ],
+      "sanrenpuku": {
+       "combo": "4-6-8",
+       "payout": 870
+      },
+      "sanrentan": {
+       "combo": "4-8-6",
+       "payout": 2240
+      },
+      "winCombos": {
+       "fuku": [
+        "4-6-8"
+       ],
+       "tan": [
+        "4-8-6"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -2457,6 +2489,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎8号車 鈴木 圭一郎（スコア13.49）。通算3連率85.4%・試走タイム—・ハンデ20m。\n対抗は○4号車 赤堀 翼、▲は7号車 花田 一輝。\n穴候補は1号車 青嶋 裕治（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       4,
+       6
+      ],
+      "sanrenpuku": {
+       "combo": "4-6-7",
+       "payout": 730
+      },
+      "sanrentan": {
+       "combo": "7-4-6",
+       "payout": 2830
+      },
+      "winCombos": {
+       "fuku": [
+        "4-6-7"
+       ],
+       "tan": [
+        "7-4-6"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5664,5 +5728,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-23T04:13:59.782Z"
+ "resultsUpdatedAt": "2026-11-23T05:14:08.197Z"
 }
