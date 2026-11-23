@@ -5785,6 +5785,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎7号車 平田 雅崇（スコア8.59）。通算3連率55.0%・試走タイム—・ハンデ40m。\n対抗は○3号車 谷島 俊行、▲は5号車 山際 真介。\n穴候補は2号車 増田 伸一（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       3,
+       7,
+       2
+      ],
+      "sanrenpuku": {
+       "combo": "2-3-7",
+       "payout": 450
+      },
+      "sanrentan": {
+       "combo": "3-7-2",
+       "payout": 5380
+      },
+      "winCombos": {
+       "fuku": [
+        "2-3-7"
+       ],
+       "tan": [
+        "3-7-2"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": true,
+       "tanBalance": true,
+       "tanShoubu": true,
+       "sanrentan": true
+      }
      }
     },
     {
@@ -6043,10 +6075,42 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎7号車 佐藤 励（スコア9.47）。通算3連率73.5%・試走タイム—・ハンデ40m。\n対抗は○4号車 篠崎 実、▲は3号車 田辺 誠。\n穴候補は2号車 本田 仁恵（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       4,
+       3
+      ],
+      "sanrenpuku": {
+       "combo": "3-4-7",
+       "payout": 830
+      },
+      "sanrentan": {
+       "combo": "7-4-3",
+       "payout": 5520
+      },
+      "winCombos": {
+       "fuku": [
+        "3-4-7"
+       ],
+       "tan": [
+        "7-4-3"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": true,
+       "tanShoubu": true,
+       "sanrentan": false
+      }
      }
     }
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-23T12:13:57.553Z"
+ "resultsUpdatedAt": "2026-11-23T13:13:55.814Z"
 }
