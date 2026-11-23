@@ -1547,6 +1547,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎1号車 鈴木 章夫（スコア2.04）。通算3連率52.4%・試走タイム—。\n対抗は○8号車 柴田 紘志、▲は5号車 鈴木 静二。\n穴候補は7号車 斎藤 正悟（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       2,
+       7,
+       6
+      ],
+      "sanrenpuku": {
+       "combo": "2-6-7",
+       "payout": 540
+      },
+      "sanrentan": {
+       "combo": "2-7-6",
+       "payout": 1920
+      },
+      "winCombos": {
+       "fuku": [
+        "2-6-7"
+       ],
+       "tan": [
+        "2-7-6"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5600,5 +5632,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-23T03:13:53.437Z"
+ "resultsUpdatedAt": "2026-11-23T03:31:17.476Z"
 }
