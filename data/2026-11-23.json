@@ -605,6 +605,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 新井 恵匠（スコア5.48）。通算3連率47.7%・試走タイム—・ハンデ30m。\n対抗は○5号車 小栗 勝太、▲は6号車 長谷 晴久。\n穴候補は3号車 下平 佳輝（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       5,
+       4,
+       8
+      ],
+      "sanrenpuku": {
+       "combo": "4-5-8",
+       "payout": 1510
+      },
+      "sanrentan": {
+       "combo": "5-4-8",
+       "payout": 6560
+      },
+      "winCombos": {
+       "fuku": [
+        "4-5-8"
+       ],
+       "tan": [
+        "5-4-8"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5504,5 +5536,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-23T01:52:56.551Z"
+ "resultsUpdatedAt": "2026-11-23T02:14:05.865Z"
 }
