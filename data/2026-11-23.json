@@ -1861,6 +1861,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎8号車 中村 友和（スコア7.51）。通算3連率45.3%・試走タイム—・ハンデ20m。\n対抗は○7号車 柴田 健治、▲は2号車 佳元 光義。\n穴候補は4号車 関口 隆広（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       8,
+       4,
+       7
+      ],
+      "sanrenpuku": {
+       "combo": "4-7-8",
+       "payout": 2540
+      },
+      "sanrentan": {
+       "combo": "8-4-7",
+       "payout": 5330
+      },
+      "winCombos": {
+       "fuku": [
+        "4-7-8"
+       ],
+       "tan": [
+        "8-4-7"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": true,
+       "tanBalance": true,
+       "tanShoubu": true,
+       "sanrentan": true
+      }
      }
     },
     {
@@ -5632,5 +5664,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-23T03:31:17.476Z"
+ "resultsUpdatedAt": "2026-11-23T04:13:59.782Z"
 }
