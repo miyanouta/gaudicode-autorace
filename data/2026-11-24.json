@@ -291,6 +291,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 岩見 貴史（スコア5.25）。通算3連率52.0%・試走タイム—・ハンデ60m。\n対抗は○7号車 山本 翔、▲は5号車 田中 進。\n穴候補は3号車 古谷 匠（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       4,
+       5
+      ],
+      "sanrenpuku": {
+       "combo": "4-5-7",
+       "payout": 4530
+      },
+      "sanrentan": {
+       "combo": "7-4-5",
+       "payout": 36030
+      },
+      "winCombos": {
+       "fuku": [
+        "4-5-7"
+       ],
+       "tan": [
+        "7-4-5"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5471,5 +5503,6 @@
     }
    ]
   }
- ]
+ ],
+ "resultsUpdatedAt": "2026-11-24T02:14:00.115Z"
 }
