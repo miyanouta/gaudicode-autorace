@@ -5495,6 +5495,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎7号車 平田 雅崇（スコア7.11）。通算3連率55.1%・試走タイム—・ハンデ20m。\n対抗は○6号車 森 且行、▲は5号車 中山 光。\n穴候補は1号車 谷島 俊行（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       2,
+       1,
+       7
+      ],
+      "sanrenpuku": {
+       "combo": "1-2-7",
+       "payout": 440
+      },
+      "sanrentan": {
+       "combo": "2-1-7",
+       "payout": 1320
+      },
+      "winCombos": {
+       "fuku": [
+        "1-2-7"
+       ],
+       "tan": [
+        "2-1-7"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -6016,5 +6048,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-24T12:00:10.646Z"
+ "resultsUpdatedAt": "2026-11-24T12:13:48.487Z"
 }
