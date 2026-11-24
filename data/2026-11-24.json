@@ -2803,6 +2803,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 松尾 啓史（スコア6.17）。通算3連率55.6%・試走タイム—・ハンデ40m。\n対抗は○7号車 木山 優輝、▲は3号車 藤井 真弘。\n穴候補は5号車 福永 貴史（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       8,
+       7,
+       6
+      ],
+      "sanrenpuku": {
+       "combo": "6-7-8",
+       "payout": 160
+      },
+      "sanrentan": {
+       "combo": "8-7-6",
+       "payout": 280
+      },
+      "winCombos": {
+       "fuku": [
+        "6-7-8"
+       ],
+       "tan": [
+        "8-7-6"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5728,5 +5760,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-24T05:24:22.964Z"
+ "resultsUpdatedAt": "2026-11-24T06:14:12.722Z"
 }
