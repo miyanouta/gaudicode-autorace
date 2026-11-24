@@ -2489,6 +2489,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎8号車 岩見 貴史（スコア7.13）。通算3連率52.0%・試走タイム—・ハンデ40m。\n対抗は○7号車 川口 裕司、▲は3号車 藤本 剛。\n穴候補は1号車 国本 一（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       8,
+       7,
+       6
+      ],
+      "sanrenpuku": {
+       "combo": "6-7-8",
+       "payout": 200
+      },
+      "sanrentan": {
+       "combo": "8-7-6",
+       "payout": 400
+      },
+      "winCombos": {
+       "fuku": [
+        "6-7-8"
+       ],
+       "tan": [
+        "8-7-6"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": true,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5696,5 +5728,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-24T05:13:59.972Z"
+ "resultsUpdatedAt": "2026-11-24T05:24:22.964Z"
 }
