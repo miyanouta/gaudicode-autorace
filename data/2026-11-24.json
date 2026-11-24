@@ -1861,6 +1861,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 中村 杏亮（スコア4.91）。通算3連率48.6%・試走タイム—・ハンデ40m。\n対抗は○7号車 中尾 貴志、▲は4号車 西村 義正。\n穴候補は6号車 吉松 優輝（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       5,
+       3
+      ],
+      "sanrenpuku": {
+       "combo": "3-5-7",
+       "payout": 400
+      },
+      "sanrentan": {
+       "combo": "7-5-3",
+       "payout": 900
+      },
+      "winCombos": {
+       "fuku": [
+        "3-5-7"
+       ],
+       "tan": [
+        "7-5-3"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -2143,6 +2175,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎8号車 岡部 聡（スコア3.68）。通算3連率56.2%・試走タイム—・ハンデ50m。\n対抗は○4号車 道智 亮介、▲は2号車 花元 初美。\n穴候補は1号車 松尾 亜生理（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       6,
+       8,
+       2
+      ],
+      "sanrenpuku": {
+       "combo": "2-6-8",
+       "payout": 620
+      },
+      "sanrentan": {
+       "combo": "6-8-2",
+       "payout": 1550
+      },
+      "winCombos": {
+       "fuku": [
+        "2-6-8"
+       ],
+       "tan": [
+        "6-8-2"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5632,5 +5696,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-24T04:14:01.475Z"
+ "resultsUpdatedAt": "2026-11-24T05:13:59.972Z"
 }
