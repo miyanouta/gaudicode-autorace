@@ -3117,6 +3117,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 福岡 鷹（スコア3.99）。通算3連率63.9%・試走タイム—・ハンデ40m。\n対抗は○7号車 岡部 聡、▲は6号車 鐘ヶ江 将平。\n穴候補は3号車 田中 進（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       4,
+       7,
+       8
+      ],
+      "sanrenpuku": {
+       "combo": "4-7-8",
+       "payout": 2690
+      },
+      "sanrentan": {
+       "combo": "4-7-8",
+       "payout": 23630
+      },
+      "winCombos": {
+       "fuku": [
+        "4-7-8"
+       ],
+       "tan": [
+        "4-7-8"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -3399,6 +3431,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎7号車 岩見 貴史（スコア6.42）。通算3連率52.0%・試走タイム—・ハンデ30m。\n対抗は○8号車 丹村 飛竜、▲は5号車 木山 優輝。\n穴候補は1号車 池浦 一博（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       8,
+       1
+      ],
+      "sanrenpuku": {
+       "combo": "1-7-8",
+       "payout": 1820
+      },
+      "sanrentan": {
+       "combo": "7-8-1",
+       "payout": 4550
+      },
+      "winCombos": {
+       "fuku": [
+        "1-7-8"
+       ],
+       "tan": [
+        "7-8-1"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": true,
+       "tanBalance": true,
+       "tanShoubu": true,
+       "sanrentan": true
+      }
      }
     },
     {
@@ -5760,5 +5824,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-25T06:14:05.230Z"
+ "resultsUpdatedAt": "2026-11-25T07:13:56.658Z"
 }
