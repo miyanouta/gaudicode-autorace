@@ -4045,6 +4045,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎6号車 中野 憲人（スコア3.39）。通算3連率44.3%・試走タイム—・ハンデ40m。\n対抗は○5号車 高石 光将、▲は7号車 影山 伸。\n穴候補は1号車 九門 結衣（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       6,
+       5,
+       4
+      ],
+      "sanrenpuku": {
+       "combo": "4-5-6",
+       "payout": 3090
+      },
+      "sanrentan": {
+       "combo": "6-5-4",
+       "payout": 37200
+      },
+      "winCombos": {
+       "fuku": [
+        "4-5-6"
+       ],
+       "tan": [
+        "6-5-4"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": true,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5856,5 +5888,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-25T08:13:55.349Z"
+ "resultsUpdatedAt": "2026-11-25T10:13:58.063Z"
 }
