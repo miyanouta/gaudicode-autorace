@@ -4915,6 +4915,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎7号車 鈴木 清（スコア4.14）。通算3連率45.0%・試走タイム—・ハンデ40m。\n対抗は○5号車 牧野 貴博、▲は6号車 斎藤 撤二。\n穴候補は4号車 吉田 幸司（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       5,
+       1
+      ],
+      "sanrenpuku": {
+       "combo": "1-5-7",
+       "payout": 5790
+      },
+      "sanrentan": {
+       "combo": "7-5-1",
+       "payout": 38730
+      },
+      "winCombos": {
+       "fuku": [
+        "1-5-7"
+       ],
+       "tan": [
+        "7-5-1"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5173,6 +5205,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎7号車 中山 光（スコア5.50）。通算3連率44.5%・試走タイム—・ハンデ40m。\n対抗は○6号車 早船 歩、▲は3号車 石井 大輔。\n穴候補は2号車 島田 健一（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       5,
+       3
+      ],
+      "sanrenpuku": {
+       "combo": "3-5-7",
+       "payout": 960
+      },
+      "sanrentan": {
+       "combo": "7-5-3",
+       "payout": 2270
+      },
+      "winCombos": {
+       "fuku": [
+        "3-5-7"
+       ],
+       "tan": [
+        "7-5-3"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5431,6 +5495,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎7号車 永井 大介（スコア9.10）。通算3連率66.1%・試走タイム—・ハンデ10m。\n対抗は○6号車 森 且行、▲は5号車 上和田 拓海。\n穴候補は4号車 阿部 剛士（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       4,
+       5,
+       7
+      ],
+      "sanrenpuku": {
+       "combo": "4-5-7",
+       "payout": 230
+      },
+      "sanrentan": {
+       "combo": "4-5-7",
+       "payout": 1880
+      },
+      "winCombos": {
+       "fuku": [
+        "4-5-7"
+       ],
+       "tan": [
+        "4-5-7"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5952,5 +6048,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-25T11:13:48.925Z"
+ "resultsUpdatedAt": "2026-11-25T12:13:51.389Z"
 }
