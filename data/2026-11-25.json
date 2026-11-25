@@ -3745,6 +3745,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 長田 稚也（スコア10.21）。通算3連率59.0%・試走タイム—・ハンデ20m。\n対抗は○7号車 中尾 貴志、▲は6号車 滝下 隼平。\n穴候補は3号車 藤岡 一樹（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       8,
+       3,
+       6
+      ],
+      "sanrenpuku": {
+       "combo": "3-6-8",
+       "payout": 430
+      },
+      "sanrentan": {
+       "combo": "8-3-6",
+       "payout": 800
+      },
+      "winCombos": {
+       "fuku": [
+        "3-6-8"
+       ],
+       "tan": [
+        "8-3-6"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     }
    ]
@@ -5824,5 +5856,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-25T07:13:56.658Z"
+ "resultsUpdatedAt": "2026-11-25T08:13:55.349Z"
 }
