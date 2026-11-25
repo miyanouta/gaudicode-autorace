@@ -5785,6 +5785,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎7号車 佐藤 励（スコア9.14）。通算3連率73.6%・試走タイム—・ハンデ20m。\n対抗は○6号車 平田 雅崇、▲は5号車 大木 光。\n穴候補は1号車 谷島 俊行（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       1,
+       2
+      ],
+      "sanrenpuku": {
+       "combo": "1-2-7",
+       "payout": 930
+      },
+      "sanrentan": {
+       "combo": "7-1-2",
+       "payout": 2480
+      },
+      "winCombos": {
+       "fuku": [
+        "1-2-7"
+       ],
+       "tan": [
+        "7-1-2"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -6043,10 +6075,42 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎6号車 佐藤 裕二（スコア5.02）。通算3連率51.6%・試走タイム—・ハンデ20m。\n対抗は○7号車 若井 友和、▲は5号車 篠崎 実。\n穴候補は3号車 広瀬 勝光（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       2,
+       6,
+       7
+      ],
+      "sanrenpuku": {
+       "combo": "2-6-7",
+       "payout": 370
+      },
+      "sanrentan": {
+       "combo": "2-6-7",
+       "payout": 1720
+      },
+      "winCombos": {
+       "fuku": [
+        "2-6-7"
+       ],
+       "tan": [
+        "2-6-7"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     }
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-25T12:13:51.389Z"
+ "resultsUpdatedAt": "2026-11-25T13:14:09.597Z"
 }
