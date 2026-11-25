@@ -4335,6 +4335,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎5号車 君和田 裕二（スコア5.41）。通算3連率40.6%・試走タイム—・ハンデ10m。\n対抗は○7号車 森谷 隼人、▲は4号車 平川 博康。\n穴候補は1号車 高橋 祐一（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       6,
+       4
+      ],
+      "sanrenpuku": {
+       "combo": "4-6-7",
+       "payout": 220
+      },
+      "sanrentan": {
+       "combo": "7-6-4",
+       "payout": 1720
+      },
+      "winCombos": {
+       "fuku": [
+        "4-6-7"
+       ],
+       "tan": [
+        "7-6-4"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -4593,6 +4625,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎7号車 小椋 華恋（スコア4.84）。通算3連率47.0%・試走タイム—・ハンデ40m。\n対抗は○4号車 福田 裕二、▲は5号車 高塚 義明。\n穴候補は6号車 山口 航太（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       4,
+       5
+      ],
+      "sanrenpuku": {
+       "combo": "4-5-7",
+       "payout": 260
+      },
+      "sanrentan": {
+       "combo": "7-4-5",
+       "payout": 890
+      },
+      "winCombos": {
+       "fuku": [
+        "4-5-7"
+       ],
+       "tan": [
+        "7-4-5"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": true,
+       "tanShoubu": true,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5888,5 +5952,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-25T10:13:58.063Z"
+ "resultsUpdatedAt": "2026-11-25T11:13:48.925Z"
 }
