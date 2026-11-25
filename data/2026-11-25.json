@@ -1861,6 +1861,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎8号車 久門 徹（スコア5.74）。通算3連率50.7%・試走タイム—・ハンデ40m。\n対抗は○6号車 田中 輝義、▲は4号車 本門 延唯。\n穴候補は2号車 国本 一（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       5,
+       6,
+       4
+      ],
+      "sanrenpuku": {
+       "combo": "4-5-6",
+       "payout": 3850
+      },
+      "sanrentan": {
+       "combo": "5-6-4",
+       "payout": 94530
+      },
+      "winCombos": {
+       "fuku": [
+        "4-5-6"
+       ],
+       "tan": [
+        "5-6-4"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5632,5 +5664,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-25T04:13:47.949Z"
+ "resultsUpdatedAt": "2026-11-25T04:24:56.706Z"
 }
