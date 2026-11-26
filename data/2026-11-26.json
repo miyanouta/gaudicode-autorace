@@ -1547,6 +1547,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 久門 徹（スコア4.82）。通算3連率50.7%・試走タイム—・ハンデ50m。\n対抗は○5号車 藤本 剛、▲は6号車 藤川 幸宏。\n穴候補は3号車 国本 一（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       8,
+       4
+      ],
+      "sanrenpuku": {
+       "combo": "4-7-8",
+       "payout": 4300
+      },
+      "sanrentan": {
+       "combo": "7-8-4",
+       "payout": 31210
+      },
+      "winCombos": {
+       "fuku": [
+        "4-7-8"
+       ],
+       "tan": [
+        "7-8-4"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -6920,5 +6952,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-26T03:40:56.249Z"
+ "resultsUpdatedAt": "2026-11-26T04:14:04.979Z"
 }
