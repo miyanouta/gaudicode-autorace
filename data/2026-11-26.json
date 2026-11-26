@@ -5639,6 +5639,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 松本 康（スコア4.25）。通算3連率47.8%・試走タイム—・ハンデ50m。\n対抗は○7号車 野本 佳章、▲は6号車 岡松 忠。\n穴候補は4号車 清岡 優一（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       8,
+       1
+      ],
+      "sanrenpuku": {
+       "combo": "1-7-8",
+       "payout": 310
+      },
+      "sanrentan": {
+       "combo": "7-8-1",
+       "payout": 7880
+      },
+      "winCombos": {
+       "fuku": [
+        "1-7-8"
+       ],
+       "tan": [
+        "7-8-1"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5921,6 +5953,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 浅倉 樹良（スコア8.93）。通算3連率61.9%・試走タイム—・ハンデ40m。\n対抗は○6号車 金山 周平、▲は7号車 五所 淳。\n穴候補は3号車 芝崎 茂信（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       8,
+       3,
+       4
+      ],
+      "sanrenpuku": {
+       "combo": "3-4-8",
+       "payout": 1690
+      },
+      "sanrentan": {
+       "combo": "8-3-4",
+       "payout": 2760
+      },
+      "winCombos": {
+       "fuku": [
+        "3-4-8"
+       ],
+       "tan": [
+        "8-3-4"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -7336,5 +7400,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-26T08:13:56.087Z"
+ "resultsUpdatedAt": "2026-11-26T09:13:53.581Z"
 }
