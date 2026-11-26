@@ -2175,6 +2175,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎6号車 藤本 悠仁（スコア4.45）。通算3連率38.7%・試走タイム—・ハンデ30m。\n対抗は○5号車 水本 竜二、▲は8号車 緒方 浩一。\n穴候補は4号車 中原 誠（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       4,
+       5,
+       8
+      ],
+      "sanrenpuku": {
+       "combo": "4-5-8",
+       "payout": 370
+      },
+      "sanrentan": {
+       "combo": "4-5-8",
+       "payout": 2690
+      },
+      "winCombos": {
+       "fuku": [
+        "4-5-8"
+       ],
+       "tan": [
+        "4-5-8"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -6984,5 +7016,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-26T04:43:05.037Z"
+ "resultsUpdatedAt": "2026-11-26T05:13:50.563Z"
 }
