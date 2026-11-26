@@ -1861,6 +1861,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎7号車 福永 貴史（スコア3.84）。通算3連率41.1%・試走タイム—・ハンデ40m。\n対抗は○8号車 藤川 竜、▲は5号車 安東 久隆。\n穴候補は6号車 壷井 亜羅汰（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       8,
+       3,
+       7
+      ],
+      "sanrenpuku": {
+       "combo": "3-7-8",
+       "payout": 230
+      },
+      "sanrentan": {
+       "combo": "8-3-7",
+       "payout": 1640
+      },
+      "winCombos": {
+       "fuku": [
+        "3-7-8"
+       ],
+       "tan": [
+        "8-3-7"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -6952,5 +6984,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-26T04:14:04.979Z"
+ "resultsUpdatedAt": "2026-11-26T04:43:05.037Z"
 }
