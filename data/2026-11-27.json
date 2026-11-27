@@ -3745,6 +3745,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 青山 周平（スコア11.55）。通算3連率83.4%・試走タイム—・ハンデ40m。\n対抗は○6号車 田中 賢、▲は5号車 渋沢 憲司。\n穴候補は2号車 中村 浩章（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       8,
+       5,
+       6
+      ],
+      "sanrenpuku": {
+       "combo": "5-6-8",
+       "payout": 440
+      },
+      "sanrentan": {
+       "combo": "8-5-6",
+       "payout": 1070
+      },
+      "winCombos": {
+       "fuku": [
+        "5-6-8"
+       ],
+       "tan": [
+        "8-5-6"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": true,
+       "tanShoubu": true,
+       "sanrentan": false
+      }
      }
     }
    ]
@@ -5632,5 +5664,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-27T11:13:49.708Z"
+ "resultsUpdatedAt": "2026-11-27T12:13:51.341Z"
 }
