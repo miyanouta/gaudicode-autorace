@@ -1861,6 +1861,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 内山 高秀（スコア3.31）。通算3連率48.8%・試走タイム—・ハンデ50m。\n対抗は○7号車 佐々木 啓、▲は6号車 穴見 和正。\n穴候補は3号車 木部 匡作（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       3,
+       8,
+       5
+      ],
+      "sanrenpuku": {
+       "combo": "3-5-8",
+       "payout": 3330
+      },
+      "sanrentan": {
+       "combo": "3-8-5",
+       "payout": 23350
+      },
+      "winCombos": {
+       "fuku": [
+        "3-5-8"
+       ],
+       "tan": [
+        "3-8-5"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -2143,6 +2175,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 伊藤 正真（スコア4.97）。通算3連率43.8%・試走タイム—・ハンデ40m。\n対抗は○6号車 佐久間 健光、▲は4号車 佐々木 光輝。\n穴候補は3号車 清岡 優一（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       8,
+       2,
+       5
+      ],
+      "sanrenpuku": {
+       "combo": "2-5-8",
+       "payout": 560
+      },
+      "sanrentan": {
+       "combo": "8-2-5",
+       "payout": 2620
+      },
+      "winCombos": {
+       "fuku": [
+        "2-5-8"
+       ],
+       "tan": [
+        "8-2-5"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5440,5 +5504,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-27T08:13:50.214Z"
+ "resultsUpdatedAt": "2026-11-27T09:13:52.644Z"
 }
