@@ -4021,6 +4021,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎5号車 田中 茂（スコア6.72）。通算3連率57.9%・試走タイム—・ハンデ30m。\n対抗は○4号車 阿部 仁志、▲は1号車 水崎 正二。\n穴候補は2号車 道智 亮介（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       1,
+       2,
+       4
+      ],
+      "sanrenpuku": {
+       "combo": "1-2-4",
+       "payout": 1560
+      },
+      "sanrentan": {
+       "combo": "1-2-4",
+       "payout": 2520
+      },
+      "winCombos": {
+       "fuku": [
+        "1-2-4"
+       ],
+       "tan": [
+        "1-2-4"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -4255,6 +4287,38 @@
        "reason": "ハンデ0の最前スタート、逃げ残りに期待"
       },
       "comment": "◎6号車 中村 杏亮（スコア1.65）。通算3連率48.5%・試走タイム—・ハンデ30m。\n対抗は○5号車 石橋 啓士、▲は4号車 松尾 隆広。\n穴候補は2号車 水口 寿治（ハンデ0の最前スタート、逃げ残りに期待）。"
+     },
+     "result": {
+      "top3": [
+       4,
+       2,
+       3
+      ],
+      "sanrenpuku": {
+       "combo": "2-3-4",
+       "payout": 290
+      },
+      "sanrentan": {
+       "combo": "4-2-3",
+       "payout": 2550
+      },
+      "winCombos": {
+       "fuku": [
+        "2-3-4"
+       ],
+       "tan": [
+        "4-2-3"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5664,5 +5728,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-27T12:13:51.341Z"
+ "resultsUpdatedAt": "2026-11-27T13:14:02.227Z"
 }
