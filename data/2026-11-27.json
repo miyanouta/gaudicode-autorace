@@ -1233,6 +1233,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 青島 正樹（スコア7.36）。通算3連率50.8%・試走タイム—・ハンデ40m。\n対抗は○7号車 横田 翔紀、▲は6号車 米里 崇徳。\n穴候補は5号車 木村 享平（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       2,
+       8,
+       1
+      ],
+      "sanrenpuku": {
+       "combo": "1-2-8",
+       "payout": 950
+      },
+      "sanrentan": {
+       "combo": "2-8-1",
+       "payout": 7800
+      },
+      "winCombos": {
+       "fuku": [
+        "1-2-8"
+       ],
+       "tan": [
+        "2-8-1"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -1515,6 +1547,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 木村 武之（スコア5.96）。通算3連率63.4%・試走タイム—・ハンデ40m。\n対抗は○6号車 谷津 圭治、▲は7号車 田村 治郎。\n穴候補は3号車 矢内 昌木（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       6,
+       8,
+       2
+      ],
+      "sanrenpuku": {
+       "combo": "2-6-8",
+       "payout": 1230
+      },
+      "sanrentan": {
+       "combo": "6-8-2",
+       "payout": 2960
+      },
+      "winCombos": {
+       "fuku": [
+        "2-6-8"
+       ],
+       "tan": [
+        "6-8-2"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5376,5 +5440,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-27T07:13:57.271Z"
+ "resultsUpdatedAt": "2026-11-27T08:13:50.214Z"
 }
