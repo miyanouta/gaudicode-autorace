@@ -5085,6 +5085,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎4号車 田中 正樹（スコア2.81）。通算3連率41.2%・試走タイム—・ハンデ50m。\n対抗は○5号車 別府 敬剛、▲は3号車 道智 亮介。\n穴候補は6号車 村瀬 月乃丞（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       5,
+       4,
+       3
+      ],
+      "sanrenpuku": {
+       "combo": "3-4-5",
+       "payout": 170
+      },
+      "sanrentan": {
+       "combo": "5-4-3",
+       "payout": 630
+      },
+      "winCombos": {
+       "fuku": [
+        "3-4-5"
+       ],
+       "tan": [
+        "5-4-3"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": true,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5792,5 +5824,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-27T14:14:40.176Z"
+ "resultsUpdatedAt": "2026-11-27T14:42:57.802Z"
 }
