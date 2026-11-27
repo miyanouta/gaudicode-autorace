@@ -605,6 +605,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 角南 一如（スコア5.05）。通算3連率48.3%・試走タイム—・ハンデ40m。\n対抗は○7号車 西原 智昭、▲は6号車 金山 周平。\n穴候補は4号車 佐々木 光輝（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       6,
+       8
+      ],
+      "sanrenpuku": {
+       "combo": "6-7-8",
+       "payout": 290
+      },
+      "sanrentan": {
+       "combo": "7-6-8",
+       "payout": 1320
+      },
+      "winCombos": {
+       "fuku": [
+        "6-7-8"
+       ],
+       "tan": [
+        "7-6-8"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": true,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -887,6 +919,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 吉原 恭佑（スコア5.33）。通算3連率51.9%・試走タイム—・ハンデ40m。\n対抗は○7号車 新井 日和、▲は6号車 田中 哲。\n穴候補は4号車 北渡瀬 充（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       5,
+       2
+      ],
+      "sanrenpuku": {
+       "combo": "2-5-7",
+       "payout": 1710
+      },
+      "sanrentan": {
+       "combo": "7-5-2",
+       "payout": 4540
+      },
+      "winCombos": {
+       "fuku": [
+        "2-5-7"
+       ],
+       "tan": [
+        "7-5-2"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5312,5 +5376,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-27T06:13:56.033Z"
+ "resultsUpdatedAt": "2026-11-27T07:13:57.271Z"
 }
