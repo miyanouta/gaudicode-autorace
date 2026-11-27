@@ -4553,6 +4553,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎6号車 中尾 貴志（スコア3.77）。通算3連率39.8%・試走タイム—・ハンデ40m。\n対抗は○5号車 浜野 翼、▲は3号車 藤井 真弘。\n穴候補は4号車 高林 亮（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       6,
+       5,
+       1
+      ],
+      "sanrenpuku": {
+       "combo": "1-5-6",
+       "payout": 380
+      },
+      "sanrentan": {
+       "combo": "6-5-1",
+       "payout": 1160
+      },
+      "winCombos": {
+       "fuku": [
+        "1-5-6"
+       ],
+       "tan": [
+        "6-5-1"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": true,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -4787,6 +4819,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎6号車 川口 裕司（スコア4.48）。通算3連率48.9%・試走タイム—・ハンデ40m。\n対抗は○5号車 木山 優輝、▲は2号車 花元 初美。\n穴候補は4号車 佐藤 裕児（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       2,
+       4,
+       6
+      ],
+      "sanrenpuku": {
+       "combo": "2-4-6",
+       "payout": 1410
+      },
+      "sanrentan": {
+       "combo": "2-4-6",
+       "payout": 8090
+      },
+      "winCombos": {
+       "fuku": [
+        "2-4-6"
+       ],
+       "tan": [
+        "2-4-6"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5728,5 +5792,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-27T13:14:02.227Z"
+ "resultsUpdatedAt": "2026-11-27T14:14:40.176Z"
 }
