@@ -5639,6 +5639,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎6号車 栗原 勝測（スコア4.29）。通算3連率38.8%・試走タイム—・ハンデ20m。\n対抗は○8号車 林 弘明、▲は7号車 亀井 政和。\n穴候補は3号車 藤本 梨恵（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       4,
+       8,
+       1
+      ],
+      "sanrenpuku": {
+       "combo": "1-4-8",
+       "payout": 136570
+      },
+      "sanrentan": {
+       "combo": "4-8-1",
+       "payout": 213090
+      },
+      "winCombos": {
+       "fuku": [
+        "1-4-8"
+       ],
+       "tan": [
+        "4-8-1"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5921,6 +5953,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎6号車 岡松 忠（スコア4.10）。通算3連率49.3%・試走タイム—・ハンデ30m。\n対抗は○7号車 新井 淳、▲は8号車 前田 淳。\n穴候補は4号車 清岡 優一（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       5,
+       6,
+       2
+      ],
+      "sanrenpuku": {
+       "combo": "2-5-6",
+       "payout": 440
+      },
+      "sanrentan": {
+       "combo": "5-6-2",
+       "payout": 2430
+      },
+      "winCombos": {
+       "fuku": [
+        "2-5-6"
+       ],
+       "tan": [
+        "5-6-2"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -9218,5 +9282,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-28T08:13:58.401Z"
+ "resultsUpdatedAt": "2026-11-28T09:13:53.730Z"
 }
