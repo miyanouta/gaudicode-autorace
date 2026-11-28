@@ -2175,6 +2175,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎4号車 植村 愛悠斗（スコア6.60）。通算3連率48.6%・試走タイム—・ハンデ20m。\n対抗は○8号車 渡辺 篤、▲は7号車 丹下 昂紀。\n穴候補は2号車 日室 志郎（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       8,
+       2
+      ],
+      "sanrenpuku": {
+       "combo": "2-7-8",
+       "payout": 2690
+      },
+      "sanrentan": {
+       "combo": "7-8-2",
+       "payout": 33280
+      },
+      "winCombos": {
+       "fuku": [
+        "2-7-8"
+       ],
+       "tan": [
+        "7-8-2"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -8866,5 +8898,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-28T04:14:06.078Z"
+ "resultsUpdatedAt": "2026-11-28T05:14:00.861Z"
 }
