@@ -3745,6 +3745,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 栗原 佳祐（スコア8.59）。通算3連率64.6%・試走タイム—・ハンデ40m。\n対抗は○7号車 山本 翔、▲は5号車 竹谷 隆。\n穴候補は3号車 松生 信二（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       1,
+       8,
+       5
+      ],
+      "sanrenpuku": {
+       "combo": "1-5-8",
+       "payout": 1250
+      },
+      "sanrentan": {
+       "combo": "1-8-5",
+       "payout": 18700
+      },
+      "winCombos": {
+       "fuku": [
+        "1-5-8"
+       ],
+       "tan": [
+        "1-8-5"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     }
    ]
@@ -4979,6 +5011,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎6号車 木村 享平（スコア3.14）。通算3連率34.7%・試走タイム—・ハンデ30m。\n対抗は○7号車 森村 亮、▲は5号車 谷川 一貴。\n穴候補は4号車 伊藤 弘幸（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       5,
+       3,
+       4
+      ],
+      "sanrenpuku": {
+       "combo": "3-4-5",
+       "payout": 1150
+      },
+      "sanrentan": {
+       "combo": "5-3-4",
+       "payout": 5070
+      },
+      "winCombos": {
+       "fuku": [
+        "3-4-5"
+       ],
+       "tan": [
+        "5-3-4"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -5261,6 +5325,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎7号車 穴見 和正（スコア5.68）。通算3連率48.8%・試走タイム—・ハンデ30m。\n対抗は○5号車 鈴木 清市、▲は8号車 大月 渉。\n穴候補は6号車 関口 隆広（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       2,
+       3,
+       8
+      ],
+      "sanrenpuku": {
+       "combo": "2-3-8",
+       "payout": 6690
+      },
+      "sanrentan": {
+       "combo": "2-3-8",
+       "payout": 72900
+      },
+      "winCombos": {
+       "fuku": [
+        "2-3-8"
+       ],
+       "tan": [
+        "2-3-8"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -9122,5 +9218,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-28T07:13:59.576Z"
+ "resultsUpdatedAt": "2026-11-28T08:13:58.401Z"
 }
