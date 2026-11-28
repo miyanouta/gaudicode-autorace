@@ -605,6 +605,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 渡辺 篤（スコア4.35）。通算3連率47.0%・試走タイム—・ハンデ60m。\n対抗は○5号車 石貝 武之、▲は7号車 松尾 彩。\n穴候補は2号車 福田 義久（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       8,
+       6,
+       2
+      ],
+      "sanrenpuku": {
+       "combo": "2-6-8",
+       "payout": 1630
+      },
+      "sanrentan": {
+       "combo": "8-6-2",
+       "payout": 3600
+      },
+      "winCombos": {
+       "fuku": [
+        "2-6-8"
+       ],
+       "tan": [
+        "8-6-2"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -887,6 +919,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎4号車 桜木 公和（スコア6.64）。通算3連率43.5%・試走タイム—・ハンデ20m。\n対抗は○8号車 長田 恭徳、▲は6号車 石田 啓貴。\n穴候補は7号車 落合 巧（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       6,
+       8,
+       4
+      ],
+      "sanrenpuku": {
+       "combo": "4-6-8",
+       "payout": 220
+      },
+      "sanrentan": {
+       "combo": "6-8-4",
+       "payout": 1470
+      },
+      "winCombos": {
+       "fuku": [
+        "4-6-8"
+       ],
+       "tan": [
+        "6-8-4"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -8706,5 +8770,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-28T02:13:53.895Z"
+ "resultsUpdatedAt": "2026-11-28T03:13:55.956Z"
 }
