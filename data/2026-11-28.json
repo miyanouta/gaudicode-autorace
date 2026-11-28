@@ -291,6 +291,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 中村 友和（スコア3.76）。通算3連率45.4%・試走タイム—・ハンデ50m。\n対抗は○7号車 辻 大樹、▲は4号車 池田 康範。\n穴候補は3号車 岩永 清文（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       8,
+       7,
+       4
+      ],
+      "sanrenpuku": {
+       "combo": "4-7-8",
+       "payout": 1960
+      },
+      "sanrentan": {
+       "combo": "8-7-4",
+       "payout": 2930
+      },
+      "winCombos": {
+       "fuku": [
+        "4-7-8"
+       ],
+       "tan": [
+        "8-7-4"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": true,
+       "tanShoubu": true,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -8673,5 +8705,6 @@
     }
    ]
   }
- ]
+ ],
+ "resultsUpdatedAt": "2026-11-28T02:13:53.895Z"
 }
