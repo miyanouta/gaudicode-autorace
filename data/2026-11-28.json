@@ -2489,6 +2489,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎4号車 牧瀬 嘉葵（スコア3.94）。通算3連率42.9%・試走タイム—・ハンデ20m。\n対抗は○6号車 岩科 鮮太、▲は8号車 古城 龍之介。\n穴候補は2号車 安東 久隆（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       6,
+       8,
+       7
+      ],
+      "sanrenpuku": {
+       "combo": "6-7-8",
+       "payout": 360
+      },
+      "sanrentan": {
+       "combo": "6-8-7",
+       "payout": 2880
+      },
+      "winCombos": {
+       "fuku": [
+        "6-7-8"
+       ],
+       "tan": [
+        "6-8-7"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -2771,6 +2803,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 吉林 直都（スコア3.11）。通算3連率43.7%・試走タイム—・ハンデ50m。\n対抗は○7号車 丸山 智史、▲は3号車 池浦 一博。\n穴候補は4号車 占部 健太（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       8,
+       4
+      ],
+      "sanrenpuku": {
+       "combo": "4-7-8",
+       "payout": 390
+      },
+      "sanrentan": {
+       "combo": "7-8-4",
+       "payout": 1970
+      },
+      "winCombos": {
+       "fuku": [
+        "4-7-8"
+       ],
+       "tan": [
+        "7-8-4"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": true,
+       "tanBalance": true,
+       "tanShoubu": true,
+       "sanrentan": true
+      }
      }
     },
     {
@@ -3909,6 +3973,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎7号車 新井 淳（スコア6.35）。通算3連率42.6%・試走タイム—・ハンデ20m。\n対抗は○8号車 大月 渉、▲は4号車 清水 卓。\n穴候補は5号車 高橋 義徳（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       2,
+       7,
+       4
+      ],
+      "sanrenpuku": {
+       "combo": "2-4-7",
+       "payout": 1930
+      },
+      "sanrentan": {
+       "combo": "2-7-4",
+       "payout": 3660
+      },
+      "winCombos": {
+       "fuku": [
+        "2-4-7"
+       ],
+       "tan": [
+        "2-7-4"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -8898,5 +8994,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-28T05:14:00.861Z"
+ "resultsUpdatedAt": "2026-11-28T06:14:03.667Z"
 }
