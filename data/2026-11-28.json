@@ -3117,6 +3117,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 鈴木 宏和（スコア7.22）。通算3連率54.8%・試走タイム—・ハンデ40m。\n対抗は○7号車 山本 将之、▲は3号車 佳元 光義。\n穴候補は5号車 石貝 武之（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       3,
+       5
+      ],
+      "sanrenpuku": {
+       "combo": "3-5-7",
+       "payout": 9020
+      },
+      "sanrentan": {
+       "combo": "7-3-5",
+       "payout": 46240
+      },
+      "winCombos": {
+       "fuku": [
+        "3-5-7"
+       ],
+       "tan": [
+        "7-3-5"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": true,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -3399,6 +3431,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎8号車 永島 潤太郎（スコア4.29）。通算3連率52.6%・試走タイム—・ハンデ50m。\n対抗は○6号車 藤岡 一樹、▲は7号車 佐藤 大地。\n穴候補は4号車 西村 義正（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       6,
+       8,
+       5
+      ],
+      "sanrenpuku": {
+       "combo": "5-6-8",
+       "payout": 560
+      },
+      "sanrentan": {
+       "combo": "6-8-5",
+       "payout": 1520
+      },
+      "winCombos": {
+       "fuku": [
+        "5-6-8"
+       ],
+       "tan": [
+        "6-8-5"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -4287,6 +4351,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎5号車 岩沼 靖郎（スコア4.37）。通算3連率40.3%・試走タイム—・ハンデ20m。\n対抗は○8号車 林 弘明、▲は7号車 米里 崇徳。\n穴候補は2号車 深沢 悟（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       2,
+       5
+      ],
+      "sanrenpuku": {
+       "combo": "2-5-7",
+       "payout": 580
+      },
+      "sanrentan": {
+       "combo": "7-2-5",
+       "payout": 2510
+      },
+      "winCombos": {
+       "fuku": [
+        "2-5-7"
+       ],
+       "tan": [
+        "7-2-5"
+       ]
+      },
+      "hits": {
+       "teppan": true,
+       "balance": true,
+       "shoubu": true,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -4569,6 +4665,38 @@
        "reason": "試走タイム—で下位スコアからの一発候補"
       },
       "comment": "◎7号車 田中 哲（スコア3.94）。通算3連率42.2%・試走タイム—・ハンデ40m。\n対抗は○3号車 笠原 三義、▲は4号車 矢内 昌木。\n穴候補は6号車 押田 和也（試走タイム—で下位スコアからの一発候補）。"
+     },
+     "result": {
+      "top3": [
+       7,
+       5,
+       8
+      ],
+      "sanrenpuku": {
+       "combo": "5-7-8",
+       "payout": 5890
+      },
+      "sanrentan": {
+       "combo": "7-5-8",
+       "payout": 11710
+      },
+      "winCombos": {
+       "fuku": [
+        "5-7-8"
+       ],
+       "tan": [
+        "7-5-8"
+       ]
+      },
+      "hits": {
+       "teppan": false,
+       "balance": false,
+       "shoubu": false,
+       "tanTeppan": false,
+       "tanBalance": false,
+       "tanShoubu": false,
+       "sanrentan": false
+      }
      }
     },
     {
@@ -8994,5 +9122,5 @@
    ]
   }
  ],
- "resultsUpdatedAt": "2026-11-28T06:14:03.667Z"
+ "resultsUpdatedAt": "2026-11-28T07:13:59.576Z"
 }
